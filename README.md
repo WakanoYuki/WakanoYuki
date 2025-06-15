@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Aris 👋 </h1>
-Now I am studying relevant courses of robotic engineering as a undergraduate student.
+I am an undergraduate student majoring in robotics engineering from China
 
 <h2> About Me </h2>
 
