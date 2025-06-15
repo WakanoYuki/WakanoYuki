@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Aris 👋 </h1>
-I am an undergraduate student majoring in robotics engineering from China
+I am an undergraduate student majoring in robotics engineering from China. I think AI will bring convenience and help to people in need, and will also make the world a better place.
 
 <h2> About Me </h2>
 
@@ -9,6 +9,10 @@ I am an undergraduate student majoring in robotics engineering from China
   
 - 💬 Talk to me about all things AI Agents and Game Development!
 
+<h2> Connect to Me </h2>
+
+- Email: aris.cn@petalmail.com
+  
 </strong>
 </p>
 
