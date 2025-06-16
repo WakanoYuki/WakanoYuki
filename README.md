@@ -17,8 +17,7 @@ Code is the Paintbrush! Paints the Colors Unique to Program!
 
 <h2> Attention </h2>
 
-Chinese users can go to my GitCode account to view the relevant content.
-https://gitcode.com/CelestAris
+Chinese users can go to [my GitCode](https://gitcode.com/CelestAris) account to view the relevant content.
 
 </strong>
 </p>
