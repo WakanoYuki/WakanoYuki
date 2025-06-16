@@ -14,7 +14,12 @@ Code is the Paintbrush! Paints the Colors Unique to Program!
 <h2> Connect to Me </h2>
 
 - Email: aris.cn@petalmail.com
-  
+
+<h2> Attention </h2>
+
+Chinese users can go to my GitCode account to view the relevant content.
+https://gitcode.com/CelestAris
+
 </strong>
 </p>
 
