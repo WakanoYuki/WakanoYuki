@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Aris 👋 </h1>
+<h1> Hi there, I'm WakanoYuki 👋 </h1>
 I am an undergraduate student majoring in robotics engineering from China. I think AI will bring convenience and help to people in need, and will also make the world a better place.
 
 Code is the Paintbrush! Paints the Colors Unique to Program!
